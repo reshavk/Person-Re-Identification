@@ -1,9 +1,6 @@
-# Open-ReID
+# Person Re-Identification
 
-Open-ReID is a lightweight library of person re-identification for research
-purpose. It aims to provide a uniform interface for different datasets, a full
-set of models and evaluation metrics, as well as examples to reproduce (near)
-state-of-the-art results.
+A lightweight library of person re-identification.
 
 ## Installation
 
